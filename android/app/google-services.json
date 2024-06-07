@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643193815915",
+    "project_id": "typengame-37e46",
+    "storage_bucket": "typengame-37e46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643193815915:android:4836bfb32a612d01b8c22e",
+        "android_client_info": {
+          "package_name": "com.example.typengame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBCmPeauqQUcWwl2EL3jGo6_2Fd-htQfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
