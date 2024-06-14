@@ -1,1 +1,1 @@
-The messaging app I made with Firebase.
+The messaging app I made with Flutter & Firebase. Currently in development.
